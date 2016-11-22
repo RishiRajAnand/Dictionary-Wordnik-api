@@ -1,0 +1,35 @@
+{
+  "name": "Wordnik_Dictionary",
+  "version": "1.0.0",
+  "description": "Command line dictionary using wordnik api",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RishiRajAnand/MyProjects"
+  },
+  "keywords": [
+    "wordnik",
+    "api",
+    "dictionary",
+    "demo",
+    "command",
+    "line",
+    "dictionary"
+  ],
+  "author": "Rishi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RishiRajAnand/wordnikDictionary/issues"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "homepage": "https://github.com/RishiRajAnand",
+  "dependencies": {
+    "async-waterfall": "0.1.5",
+    "request-json": "0.6.1"
+  }
+}
