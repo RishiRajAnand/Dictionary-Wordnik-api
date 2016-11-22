@@ -1,2 +1,2 @@
 # MyProjects
-Contains all my works so far
+I love making javascript recipes
